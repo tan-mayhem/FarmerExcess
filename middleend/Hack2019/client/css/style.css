@@ -1,0 +1,44 @@
+h1,  ul {
+    text-align: center !important;
+}
+.p_01 {
+    text-align: center;
+}
+#p_err {
+    color: red;
+    text-align: center;
+}
+#myFavTable.thead {
+	text-align: center;
+}
+.jumbotron {
+  background-color: DarkSeaGreen;
+}
+.navbar-default {
+  background-color: DarkSlateGrey;
+}
+.glyphicon-log-out, b {
+  color: white;
+}
+th {
+  text-align:center;
+  background-color: DarkOliveGreen;
+}
+.table {
+  text-align:center;
+}
+.table-striped {
+  text-align:center;
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+
+.table-bordered {
+  text-align:center;
+}
+button {
+  background:none;
+  border:none;
+  padding:0;
+  padding-right:10px;
+}
